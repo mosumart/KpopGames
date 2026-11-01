@@ -1,0 +1,9 @@
+K-POP STAR QUIZ — Github Pages
+
+1. Upload semua fail dan folder ke ROOT repository (index.html, style.css, main.js, data/, api/, dll).
+2. Settings > Pages > Build and deployment > Deploy from a branch > main > /(root) > Save.
+3. Akses https://USERNAME.github.io/REPOSITORY/
+4. Jangan upload index.html sahaja: fail style.css, main.js dan data/seed.js diperlukan.
+5. Pastikan huruf besar/kecil pada nama fail betul.
+6. GitHub Pages hanya hosting statik. Mod gambar dan internet discovery menggunakan /api/* dan memerlukan backend berasingan (cth Vercel).
+7. Tekan Cmd+Shift+R selepas deploy untuk hard refresh.
